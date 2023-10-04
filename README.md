@@ -11,4 +11,4 @@ el titulo esta terriblemnte pulentoidexd
 <h2>subtitulo<h2>
 
 
-texto vario
+texto del main
